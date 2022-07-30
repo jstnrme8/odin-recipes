@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(139, 63, 40);
+}
+
+h1 {
+    font-family: Verdana, Helvetica, Arial;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+div {
+    font-family: Verdana, Helvetica, Arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.image {
+    text-align: center;
+}
